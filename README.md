@@ -33,10 +33,13 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/urmisha/c
 - Which postcode area buys the most cookies?
 
 ## Results
+I've included an Excel file outlining the process for answering these questions. 
 | Key Question	| Insights | 
 | -----------------|:-----------------------------------------:|
 | Which age group buys the most cookies?	|In our dataset, the age group 10-19 emerged as the top purchasers of cookies. Furthermore, individuals aged 10-29 accounted for 57% of all purchases.|
 | What is the distribution of cookie purchases by gender?	| In our data, 67% of cookie purchases were made by females, while males accounted for 37% of purchases. |
-| Which are the most popular cookies?	| Our analysis revealed that macadamia and  chocolate chip cookies are the most popular choices among consumers.Interestingly, salted caramel cookies constituted only 1% of all purchases. Further investigation is warranted to understand the factors behind this trend.|
+| Which are the most popular cookies?	| Our analysis revealed that macadamia and  chocolate chip cookies are the most popular choices among consumers. Interestingly, salted caramel cookies constituted only 1% of all purchases. Further investigation is warranted to understand the factors behind this trend.|
 |Which postcode area buys the most cookies?|	The area with postcode 2000 stands out as the highest purchaser of cookies in our dataset.|
 
+## Recommendations
+Please access my PowerPoint presentation, which includes the recommendations for this analysis.
