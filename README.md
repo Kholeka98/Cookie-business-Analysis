@@ -42,4 +42,4 @@ I've included an Excel file outlining the process for answering these questions.
 |Which postcode area buys the most cookies?|	The area with postcode 2000 stands out as the highest purchaser of cookies in our dataset.|
 
 ## Recommendations
-Please access my PowerPoint presentation, which includes the recommendations for this analysis.
+Please access my PowerPoint [Presentation](https://github.com/Kholeka98/Cookie-business-Analysis/blob/main/Cookie%20Business%20Data%20Analysis.pptx), which includes the recommendations for this analysis.
