@@ -33,7 +33,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/urmisha/c
 - Which postcode area buys the most cookies?
 
 ## Results
-I've included an Excel file outlining the process for answering these questions. 
+I've attached an Excel [file](https://github.com/Kholeka98/Cookie-business-Analysis/blob/main/Cookie%20business%20project.xlsx) outlining the process for answering these questions. 
 | Key Question	| Insights | 
 | -----------------|:-----------------------------------------:|
 | Which age group buys the most cookies?	|In our dataset, the age group 10-19 emerged as the top purchasers of cookies. Furthermore, individuals aged 10-29 accounted for 57% of all purchases.|
