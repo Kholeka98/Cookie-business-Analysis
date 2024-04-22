@@ -24,7 +24,8 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/urmisha/c
 ### Dataset Preparation
 - The dataset was checked for duplicates, missing values, and inconsistency in spelling.
 - To maintain consistency in the total number of cookies bought each week, a single randomly generated value in the 'Cookies bought each week' field was replaced with an estimate derived from the median of the values within the same column.
-
+### Exploratory Data Analysis
+- Descriptive statistics were calculated as part of understanding the dataset.
 
 ## Business Questions to answer
 - Which age group buys the most cookies?
