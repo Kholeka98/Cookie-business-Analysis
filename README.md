@@ -10,13 +10,13 @@ We aim to pinpoint both the top-selling cookie varieties and those experiencing 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/urmisha/cookie-business).
 | Column           | Description                               | Data Type       |
 | -----------------|:-----------------------------------------:|:---------------:|
-| Customer ID      | unique identifier assigned to each order  | String     |
-| Age              | Age of customer                             |  Integer        |
-| Age Group        | Age group of customer                          | String     |
-| Postcode         |  Location of customer                        | String      |
-| Gender           | Gender of customer                            | String     |
-| Favourite Cookie | Cookie purchased                     | String    |
-| Cookies bought each week  |Number of cookies purchased each week  |  Integer    |
+| Customer ID      | unique identifier assigned to each order  |String     |
+| Age              | Age of customer                             |Integer        |
+| Age Group        | Age group of customer                          |String     |
+| Postcode         | Location of customer                        |String      |
+| Gender           | Gender of customer                            |String     |
+| Favourite Cookie | Cookie purchased                     |String    |
+| Cookies bought each week  |Number of cookies purchased each week  |Integer    |
 
 
 
